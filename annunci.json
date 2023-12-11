@@ -1,0 +1,201 @@
+[ 
+    {
+        "id": 1,
+        "img": "./media/tavolo.jpg",
+        "name": "tavolo",
+        "category": "arredamento interni",
+        "price": "100"
+    },
+
+    {
+        "id": 2,
+        "img": "./media/sedia.jpg",
+        "name": "sedia",
+        "category": "arredamento interni",
+        "price": "50"
+    },
+
+    {
+        "id": 3,
+        "img": "./media/tavolo esterni.jpg",
+        "name": "tavolo per esterni",
+        "category": "arredamento esterni",
+        "price": "150.99"
+    },
+
+    {
+        "id": 4,
+        "img": "./media/sedia esterni.jpg",
+        "name": "sedia esterni",
+        "category": "arredamento esterni",
+        "price": "57.89"
+    },
+
+    {
+        "id": 5,
+        "img": "./media/tavolo.jpg",
+        "name": "tavolo",
+        "category": "arredamento interni",
+        "price": "100"
+    },
+
+    {
+        "id": 6,
+        "img": "./media/lampada.jpg",
+        "name": "lampada",
+        "category": "arredamento ufficio",
+        "price": "20.62"
+    },
+
+    {
+        "id": 7,
+        "img": "./media/tv.jpg",
+        "name": "tv",
+        "category": "arredamento interni",
+        "price": "857.96"
+    },
+
+    {
+        "id": 8,
+        "img": "./media/divano interni.jpg",
+        "name": "divano",
+        "category": "arredamento interni",
+        "price": "764.99"
+    },
+
+    {
+        "id": 9,
+        "img": "./media/tavolo.jpg",
+        "name": "tavolo",
+        "category": "arredamento interni",
+        "price": "450"
+    },
+
+    {
+        "id": 10,
+        "img": "./media/lampada.jpg",
+        "name": "lampada",
+        "category": "arredamento ufficio",
+        "price": "89.60"
+    },
+
+    {
+        "id": 11,
+        "img": "./media/divano interni.jpg",
+        "name": "divano in pelle",
+        "category": "arredamento interni",
+        "price": "1567.90"
+    },
+
+    {
+        "id": 12,
+        "img": "./media/tavolo.jpg",
+        "name": "tavolo",
+        "category": "arredamento interni",
+        "price": "400"
+    },
+
+    {
+        "id": 13,
+        "img": "./media/sedia esterni.jpg",
+        "name": "sedia esterni",
+        "category": "arredamento esterni",
+        "price": "70"
+    },
+
+    {
+        "id": 14,
+        "img": "./media/tavolo esterni.jpg",
+        "name": "tavolo giardino",
+        "category": "arredamento esterni",
+        "price": "350.50"
+    },
+
+    {
+        "id": 15,
+        "img": "./media/tv.jpg",
+        "name": "tv",
+        "category": "arredamento interni",
+        "price": "2670"
+    },
+
+    {
+        "id": 16,
+        "img": "./media/lampada.jpg",
+        "name": "lampada da ufficio",
+        "category": "arredamento interni",
+        "price": "72"
+    },
+
+    {
+        "id": 17,
+        "img": "./media/divano interni.jpg",
+        "name": "divano in tessuto",
+        "category": "arredamento interni",
+        "price": "900"
+    },
+
+    {
+        "id": 18,
+        "img": "./media/sedia.jpg",
+        "name": "sedia in legno",
+        "category": "arredamento ufficio",
+        "price": "200.89"
+    },
+
+    {
+        "id": 19,
+        "img": "./media/tavolo.jpg",
+        "name": "tavolo in legno",
+        "category": "arredamento interni",
+        "price": "700"
+    },
+
+    {
+        "id": 20,
+        "img": "./media/divano interni.jpg",
+        "name": "divano",
+        "category": "arredamento interni",
+        "price": "950.90"
+    },
+
+    {
+        "id": 21,
+        "img": "./media/sedia.jpg",
+        "name": "sedia in pelle",
+        "category": "arredamento interni",
+        "price": "250"
+    },
+
+    {
+        "id": 22,
+        "img": "./media/tavolo esterni.jpg",
+        "name": "tavolo in legno",
+        "category": "arredamento esterni",
+        "price": "300"
+    },
+
+    {
+        "id": 23,
+        "img": "./media/divano interni.jpg",
+        "name": "divano in pelle",
+        "category": "arredamento interni",
+        "price": "2000"
+    },
+
+    {
+        "id": 24,
+        "img": "./media/tavolo.jpg",
+        "name": "tavolo",
+        "category": "arredamento ufficio",
+        "price": "470.80"
+    },
+
+    {
+        "id": 25,
+        "img": "./media/lampada.jpg",
+        "name": "lampada",
+        "category": "arredamento ufficio",
+        "price": "150.75"
+    }
+]
